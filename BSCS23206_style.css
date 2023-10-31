@@ -9,7 +9,7 @@ body{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #af0563;
 }
 
 .navbar li {
@@ -18,28 +18,28 @@ body{
 
 .navbar li a {
     display: block;
-    color: white;
+    color: rgb(216, 201, 201);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 .navbar li a:hover {
-    background-color: #111;
+    background-color: #0f046e;
 }
 
 img {
-    width: 300px;
-    height: 250px;
-    border-radius: 50%;
+    width: 350px;
+    height: 200px;
+    border-radius: 40%;
 }
 
 .container {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 30px;
-    background-color: #f0f0f0;
+    padding: 20px;
+    background-color: #d1c7c7;
 }
 footer {
     position: fixed;
@@ -48,7 +48,7 @@ footer {
     width: 100%;
     text-align: center;
     padding: 10px ;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(153, 9, 9);
     color: rgb(247, 243, 243);
     
   }
