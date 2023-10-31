@@ -9,7 +9,7 @@ body{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #4710ad;
+    background-color: #af0563;
 }
 
 .navbar li {
@@ -18,14 +18,14 @@ body{
 
 .navbar li a {
     display: block;
-    color: white;
+    color: rgb(216, 201, 201);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 .navbar li a:hover {
-    background-color: #cc0c0c;
+    background-color: #0f046e;
 }
 
 img {
@@ -38,8 +38,8 @@ img {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 30px;
-    background-color: #f0f0f0;
+    padding: 20px;
+    background-color: #d1c7c7;
 }
 footer {
     position: fixed;
@@ -47,7 +47,7 @@ footer {
     bottom: 0;
     width: 100%;
     text-align: center;
-    padding: 9px ;
+    padding: 10px ;
     background-color: rgb(153, 9, 9);
     color: rgb(247, 243, 243);
     
